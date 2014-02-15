@@ -1,6 +1,7 @@
 # Session Template
 
 This document will serve as a template for all sessions.
+It should detail things such as the target technologies and hte expected experience level of the audience.
 
 ## Organizers
 * This list
