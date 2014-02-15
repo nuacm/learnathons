@@ -11,3 +11,6 @@ The learning section of the day should consist of 2 to 3 hours of presentations.
 
 ## Hacking
 After the learning sessions have finished and lunch has been devoured, the attendees will break into small groups and work on small project with the technology that they have just learned. In all likelihood, the organizers may have to create some infrastructure for the attendees to use. For example, if the learnathon was about AJAX, then the organizers would have to create a server for the attendees to access with there application.
+
+## Resources
+* [Potential Ideas](Potential.md)
