@@ -8,3 +8,4 @@ Yo, ACM officers add stuff here:
 * Rails (yes, I know how the vast majority of us feel about this)
 * Python + NLTK
 * Backbone or Angular or Ember
+* Javascript + D3
