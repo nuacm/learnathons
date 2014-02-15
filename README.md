@@ -14,3 +14,4 @@ After the learning sessions have finished and lunch has been devoured, the atten
 
 ## Resources
 * [Potential Ideas](Potential.md)
+* [Session Template](sessions/template.md)
