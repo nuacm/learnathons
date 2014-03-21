@@ -7,10 +7,11 @@ This learnathon will focus on teaching Baby-Frosh about some basic web developme
 
 ## Presentations
 * HTML Intro --
-* CSS Intro
+* CSS Intro --
 * Basic Javascript, Syntax and shit --
 * Basic Javascript, DOM Manipulation --
 * HTTP Request basics + Jquery -- 
+* AJAX --
 
 ## Hacking
 For the hacking portion of the day, people will break into groups and try to create a small website that uses data from a web server.
